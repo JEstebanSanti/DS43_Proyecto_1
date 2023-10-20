@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Convertidortemperatura2</string>
+
+    <string name="titulo">Convertidor de Temperatura</string>
+    <string name="botonConvertir">Convertir</string>
+
+    <string-array name="convert_option">
+        <item>°C to °F</item>
+        <item>°C to °K</item>
+        <item>°F to °C</item>
+        <item>°F to °K</item>
+        <item>°K to °C</item>
+        <item>°K to °F</item>
+    </string-array>
+</resources>
